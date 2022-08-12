@@ -1,4 +1,7 @@
 echo 'welcome'
 echo 'to patient'
-echo 'sam'
+echo 'Sam'
+echo 'Dev'
+echo 'Meshach'
+
 echo 'to emis'
